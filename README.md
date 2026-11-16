@@ -36,3 +36,8 @@ Exercise files live under `exercises/` on the `main` branch only. A branch creat
 The exercises of modules 2 to 8 are not published yet.
 
 The lessons are on [agenticswift.dev](https://agenticswift.dev).
+
+## License
+
+MIT, see [LICENSE](LICENSE). It applies to every revision of this repository, the `baseline`
+tag included, whose own LICENSE file is an earlier placeholder.
