@@ -21,3 +21,18 @@ Making it ready for agents is the subject of module 2.
 
     swift build
     swift test
+
+## Course exercises
+
+The tag `baseline` marks the plain codebase. Every exercise of the course starts from it.
+
+Exercise files live under `exercises/` on the `main` branch only. A branch created from
+`baseline` contains the codebase and nothing else, which is what a baseline run needs.
+
+| Exercise | Module | State |
+|---|---|---|
+| [01. Baseline versus configured](exercises/exercise-01/README.md) | 1. Agent Harness Foundations | Ready |
+
+The exercises of modules 2 to 8 are not published yet.
+
+The lessons are on [agenticswift.dev](https://agenticswift.dev).
