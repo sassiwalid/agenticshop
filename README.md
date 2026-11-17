@@ -33,8 +33,9 @@ Exercise files live under `exercises/` on the `main` branch only. A branch creat
 |---|---|---|
 | [01. Baseline versus configured](exercises/exercise-01/README.md) | 1. Agent Harness Foundations | Ready |
 | [02. Prepare AgenticShop for agents](exercises/exercise-02/README.md) | 2. Building Agent-Ready Swift Repositories | Ready |
+| [03. Two context strategies for one feature](exercises/exercise-03/README.md) | 3. Context Engineering for Swift Developers | Ready |
 
-The exercises of modules 3 to 8 are not published yet.
+The exercises of modules 4 to 8 are not published yet.
 
 The lessons are on [agenticswift.dev](https://agenticswift.dev).
 
